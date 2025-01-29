@@ -29,16 +29,6 @@ Backend Framework: Python, Streamlit
 
 Cloud & API Integration: Ollama API for conversational AI
 
-Installation and Setup
-
-Clone the repository:
-
-git clone https://github.com/your-repo/doctor-care-bot.git
-cd doctor-care-bot
-
-Install dependencies:
-
-pip install -r requirements.txt
 
 Run the chatbot locally:
 
